@@ -1,9 +1,9 @@
-package com.mkyong.customer.services;
+package pl.altkom.customer.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.mkyong.customer.dao.CustomerDAO;
+import pl.altkom.customer.dao.CustomerDAO;
 
 @Service
 public class CustomerService 

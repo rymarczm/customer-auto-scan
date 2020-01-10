@@ -1,9 +1,9 @@
-package com.mkyong.common;
+package pl.altkom;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import com.mkyong.customer.services.CustomerService;
+import pl.altkom.customer.service.CustomerService;
 
 public class App 
 {

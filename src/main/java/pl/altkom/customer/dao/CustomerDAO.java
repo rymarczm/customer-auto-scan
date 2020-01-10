@@ -1,4 +1,4 @@
-package com.mkyong.customer.dao;
+package pl.altkom.customer.dao;
 
 import org.springframework.stereotype.Repository;
 
